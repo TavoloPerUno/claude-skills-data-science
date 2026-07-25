@@ -207,6 +207,10 @@ The folder name becomes the slash command (`/skill-name`).
 
 - [py-visualize-accelerometry](https://github.com/TavoloPerUno/py-visualize-accelerometry) — Web app for viewing and annotating tri-axial accelerometry data. Built with Panel and Bokeh; used by clinical research teams for chair-stand, TUG, and walk-test annotation.
 
+## Author
+
+Manu Murugesan
+
 ## License
 
 MIT
