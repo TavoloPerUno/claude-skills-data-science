@@ -203,6 +203,10 @@ The folder name becomes the slash command (`/skill-name`).
 - **visualizing-data**: Based on Edward Tufte's principles of data visualization, with practical matplotlib/seaborn implementation patterns.
 - **presenting-data**: Based on Barbara Minto's Pyramid Principle, the SCR storytelling framework, and python-pptx production techniques.
 
+## Related
+
+- [py-visualize-accelerometry](https://github.com/TavoloPerUno/py-visualize-accelerometry) — Web app for viewing and annotating tri-axial accelerometry data. Built with Panel and Bokeh; used by clinical research teams for chair-stand, TUG, and walk-test annotation.
+
 ## License
 
 MIT
